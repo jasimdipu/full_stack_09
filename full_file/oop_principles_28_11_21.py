@@ -28,7 +28,6 @@ class Student(ABC):
     def setname(self, name):
         pass
 
-
     @abstractmethod
     def setdept(self, dept):
         pass
